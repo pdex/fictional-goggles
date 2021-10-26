@@ -7,8 +7,6 @@
 ## Run setup script
 
 ```sh
-export TUTORIAL_PROJECT_ID={{project-id}}
-gcloud config set project $TUTORIAL_PROJECT_ID
 ./rcs-tf-setup.sh {{project-id}}
 
 ```
