@@ -4,7 +4,7 @@ PROJECT_ID=$1
 
 echo "enabling gcloud"
 gcloud config set project $PROJECT_ID
-gcloud auth login
+#gcloud auth login
 
 
 echo "enabling services"
