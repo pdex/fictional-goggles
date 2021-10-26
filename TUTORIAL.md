@@ -8,5 +8,5 @@
 
 ```sh
 export TUTORIAL_PROJECT_ID={{project-id}}
-./rcs-tf-setup.sh
+./rcs-tf-setup.sh $TUTORIAL_PROJECT_ID
 ```
